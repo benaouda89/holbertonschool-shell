@@ -1,2 +1,2 @@
 #!/bin/bash
-ls_l
+ls-l
